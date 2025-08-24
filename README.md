@@ -96,7 +96,12 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
+
+
 ## Manual Review
 - Ensure all features are implemented and documented.
 - Submit your GitHub repository link for peer and manual QA review.
 
+git add README.md
+git commit -m "Add Feature Breakdown section"
+git push origin main
