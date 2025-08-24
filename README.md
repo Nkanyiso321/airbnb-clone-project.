@@ -39,7 +39,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## Database Design
+ Database Design
 **Entities & Fields:**
 
 1. **User**
