@@ -18,7 +18,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## Team Roles
+**Team Roles**
 
 - **Backend Developer:** Designs and implements server-side logic, APIs, and database interactions.
 - **Database Administrator (DBA):** Plans and manages database schemas, relationships, and optimizations.
@@ -29,7 +29,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## Technology Stack
+**Technology Stack**
 - **Django:** Web framework for building secure and scalable RESTful APIs.
 - **MySQL/PostgreSQL:** Relational database system to manage user data, properties, bookings, and payments.
 - **GraphQL:** Flexible query language for APIs to fetch exactly the data needed.
@@ -39,7 +39,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
- Database Design
+**Database Design**
 **Entities & Fields:**
 
 1. **User**
@@ -74,7 +74,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## API Security
+**API Security**
 - **Authentication:** JWT-based token authentication for secure user sessions.
 - **Authorization:** Role-based access control to restrict sensitive operations to authorized users.
 - **Rate Limiting:** Prevents abuse of API endpoints.
@@ -84,7 +84,7 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## CI/CD Pipeline
+**CI/CD Pipeline**
 **Continuous Integration/Continuous Deployment (CI/CD):**
 - Automates testing, building, and deployment to ensure rapid and reliable updates.
 - **Tools Used:** GitHub Actions (for automated workflows), Docker (for consistent environment deployment)
@@ -96,6 +96,6 @@ The Airbnb Clone Project is a comprehensive full-stack application that simulate
 
 ---
 
-## Manual Review
+**Manual Review**
 - Ensure all features are implemented and documented.
 - Submit your GitHub repository link for peer and manual QA review.
